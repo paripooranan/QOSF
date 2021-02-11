@@ -1,5 +1,5 @@
 # QOSF
-QOSF task 2 
+QOSF task 2. The 3 files are available as both python scripts and Jupyter notebooks. This solution has been carried out with Qiskit (0.20.0) in Python.
 
 # Motivation
 
